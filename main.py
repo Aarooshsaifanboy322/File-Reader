@@ -1,5 +1,5 @@
 # File Reader
-# By AarooshCodez
+# By E-Coders Team
 # This file is editable for you guys.
 
 # Imports
