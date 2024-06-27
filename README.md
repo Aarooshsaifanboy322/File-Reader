@@ -1,5 +1,5 @@
 # File-Reader Version
-This application's version is currently Alpha.
+This application's version is currently Alpha. More releases coming soon!
 
 # IMPORTANT NOTICE
 Please read the license first if you haven't yet.
