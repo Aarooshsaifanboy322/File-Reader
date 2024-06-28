@@ -1,5 +1,7 @@
-# File-Reader Version
+# File-Reader
 This application's version is currently Alpha. More releases coming soon!
+<br>
+To read files, the files' name must not contain any white spaces.
 
 # IMPORTANT NOTICE
 Please read the license first if you haven't yet.
